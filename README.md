@@ -1,5 +1,3 @@
-[📘 Exam PDF](EFMR FRONT END 20232024.pdf) 
-
 
 # Getting Started with Create React App
 
