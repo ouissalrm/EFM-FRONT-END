@@ -7,10 +7,16 @@ export default function AjoutLivre(){
     const [genre, setGenre] = useState("");
     const [livre ,setlivre] =useState([]);
 
+
+
     const check=()=>{
         // alert("hey")
         if(name==="" || Titre==="" || Date==="" || Prix==="" || genre === ""){
             alert("les champs sont obligatoire");
+            return;
+        }
+        if(Number(Prix)>200){
+            alert("Le prix du livre ne doit pas dépasser 200 dh")
             return;
         }
         
@@ -23,6 +29,10 @@ export default function AjoutLivre(){
             genre
         }
         setlivre([...livre,Nvlivre]);
+    }
+
+    const clearr = ()=>{
+        setlivre([]);
     }
 
 
@@ -70,7 +80,7 @@ export default function AjoutLivre(){
                 </div>
 
            <button onClick={check}>Ajouter</button>
-           <button>Réinitialiser</button>
+           <button onClick={clearr}>Réinitialiser</button>
              <div>
   {livre.map((li, index) => (
     <p key={index}> Num: {li.name} | Titre :{li.Titre}  | Date édition : {li.Date} Genre : {li.genre} | Prix: {li.Prix} </p>
