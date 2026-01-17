@@ -1,0 +1,116 @@
+[
+  {
+    "country": "Afghanistan",
+    "cases": 207748,
+    "todayCases": 15,
+    "deaths": 7890,
+    "todayDeaths": 1,
+    "recovered": 186000,
+    "active": 13858,
+    "critical": 45,
+    "tests": 1200000,
+    "countryInfo": {
+      "id": 4,
+      "iso2": "AF",
+      "iso3": "AFG",
+      "lat": 33,
+      "long": 65,
+      "flag": "https://disease.sh/assets/img/flags/af.png"
+    }
+  },
+  {
+    "country": "Albania",
+    "cases": 333818,
+    "todayCases": 22,
+    "deaths": 3600,
+    "todayDeaths": 0,
+    "recovered": 329000,
+    "active": 1218,
+    "critical": 12,
+    "tests": 2100000,
+    "countryInfo": {
+      "id": 8,
+      "iso2": "AL",
+      "iso3": "ALB",
+      "lat": 41,
+      "long": 20,
+      "flag": "https://disease.sh/assets/img/flags/al.png"
+    }
+  },
+  {
+    "country": "Algeria",
+    "cases": 271236,
+    "todayCases": 10,
+    "deaths": 6881,
+    "todayDeaths": 0,
+    "recovered": 183061,
+    "active": 81294,
+    "critical": 20,
+    "tests": 5500000,
+    "countryInfo": {
+      "id": 12,
+      "iso2": "DZ",
+      "iso3": "DZA",
+      "lat": 28,
+      "long": 3,
+      "flag": "https://disease.sh/assets/img/flags/dz.png"
+    }
+  },
+  {
+    "country": "Andorra",
+    "cases": 47751,
+    "todayCases": 3,
+    "deaths": 165,
+    "todayDeaths": 0,
+    "recovered": 47000,
+    "active": 586,
+    "critical": 2,
+    "tests": 250000,
+    "countryInfo": {
+      "id": 20,
+      "iso2": "AD",
+      "iso3": "AND",
+      "lat": 42.5,
+      "long": 1.5,
+      "flag": "https://disease.sh/assets/img/flags/ad.png"
+    }
+  },
+  {
+    "country": "Argentina",
+    "cases": 9963697,
+    "todayCases": 120,
+    "deaths": 130000,
+    "todayDeaths": 2,
+    "recovered": 9800000,
+    "active": 163697,
+    "critical": 200,
+    "tests": 36000000,
+    "countryInfo": {
+      "id": 32,
+      "iso2": "AR",
+      "iso3": "ARG",
+      "lat": -34,
+      "long": -64,
+      "flag": "https://disease.sh/assets/img/flags/ar.png"
+    }
+  },
+  {
+    "country": "Australia",
+    "cases": 11136734,
+    "todayCases": 95,
+    "deaths": 19500,
+    "todayDeaths": 1,
+    "recovered": 10900000,
+    "active": 217234,
+    "critical": 310,
+    "tests": 82000000,
+    "countryInfo": {
+      "id": 36,
+      "iso2": "AU",
+      "iso3": "AUS",
+      "lat": -27,
+      "long": 133,
+      "flag": "https://disease.sh/assets/img/flags/au.png"
+    }
+  }
+]

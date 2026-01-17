@@ -3,6 +3,7 @@ import './App.css';
 import AjoutLivre from './AjoutLivre';
 import Produits from './Produits';
 import Formul from './Formu';
+import Countryy from './Countryy';
 
 function App() {
   return (
@@ -15,6 +16,9 @@ function App() {
       <hr></hr>
       <h5>Reg 2 Exercice 1 </h5>
       <Formul />
+      <hr></hr>
+       <h5>Reg 1 Exercice 3 </h5>
+       <Countryy />
     </div>
   );
 }
