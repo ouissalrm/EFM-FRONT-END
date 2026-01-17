@@ -33,6 +33,8 @@ function App() {
        <div className='cardss'>
          <Parfums />
        </div>
+       <h5>Reg 3 Exercice 1 </h5>
+       <AjoutLivre />
         
         
 
