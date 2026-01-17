@@ -4,6 +4,7 @@ import AjoutLivre from './AjoutLivre';
 import Produits from './Produits';
 import Formul from './Formu';
 import Countryy from './Countryy';
+import UseAlbum from './UseAlbum';
 
 function App() {
   return (
@@ -19,6 +20,9 @@ function App() {
       <hr></hr>
        <h5>Reg 1 Exercice 3 </h5>
        <Countryy />
+        <h5>Reg 2 Exercice 2 </h5>
+        <UseAlbum />
+
     </div>
   );
 }
