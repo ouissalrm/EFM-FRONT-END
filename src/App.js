@@ -7,6 +7,7 @@ import Countryy from './Countryy';
 import UseAlbum from './UseAlbum';
 import UseDetailAlbum from './UseDetailAlbum';
 import SelectAlbum from './SelectAlbum';
+import Parfums from './Parfums';
 
 function App() {
   return (
@@ -28,6 +29,10 @@ function App() {
         <UseDetailAlbum />
         <h5>Reg 2 Exercice 2 partie 3 </h5>
         <SelectAlbum />
+         <h5>Reg 2 Exercice 3 </h5>
+       <div className='cardss'>
+         <Parfums />
+       </div>
         
         
 
