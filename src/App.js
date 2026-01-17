@@ -8,6 +8,7 @@ import UseAlbum from './UseAlbum';
 import UseDetailAlbum from './UseDetailAlbum';
 import SelectAlbum from './SelectAlbum';
 import Parfums from './Parfums';
+import HeaderTable from './HeaderTable';
 
 function App() {
   return (
@@ -35,6 +36,9 @@ function App() {
        </div>
        <h5>Reg 3 Exercice 1 </h5>
        <AjoutLivre />
+        <h5>Reg 3 Exercice 2 </h5>
+        <HeaderTable />
+      
         
         
 

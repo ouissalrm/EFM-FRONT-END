@@ -5,3 +5,19 @@ h5{
   display: flex;
   justify-content: space-around;
 }
+ table {
+    border-collapse: collapse;
+    width: 80%;
+    margin: auto;
+    background-color: #fff;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  }
+  th, td {
+    text-align: left;
+    padding: 12px;
+    border-bottom: 1px solid #ddd;
+  }
+  th {
+    background-color:rgba(95, 158, 160, 0.749); 
+    color: #fff;
+  }

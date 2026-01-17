@@ -1,0 +1,26 @@
+[
+  {
+    "nom": "nom1",
+    "prenom": "prenom1",
+    "dateNaissance": "15/02/2000",
+    "ville": "Oujda",
+    "genre": "F",
+    "notes": [15, 14, 12, 10]
+  },
+  {
+    "nom": "nom2",
+    "prenom": "prenom2",
+    "dateNaissance": "20/08/1999",
+    "ville": "Casablanca",
+    "genre": "M",
+    "notes": [10, 12, 14, 16]
+  },
+  {
+    "nom": "nom3",
+    "prenom": "prenom3",
+    "dateNaissance": "05/05/2001",
+    "ville": "Rabat",
+    "genre": "F",
+    "notes": [18, 17, 16, 15]
+  }
+]
