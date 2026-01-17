@@ -6,6 +6,7 @@ import Formul from './Formu';
 import Countryy from './Countryy';
 import UseAlbum from './UseAlbum';
 import UseDetailAlbum from './UseDetailAlbum';
+import SelectAlbum from './SelectAlbum';
 
 function App() {
   return (
@@ -25,6 +26,8 @@ function App() {
         <UseAlbum />
         <h5>Reg 2 Exercice 2 partie 2 </h5>
         <UseDetailAlbum />
+        <h5>Reg 2 Exercice 2 partie 3 </h5>
+        <SelectAlbum />
         
         
 
